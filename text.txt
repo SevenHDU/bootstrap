@@ -1,5 +1,0 @@
-Git is a distributed version contrlo system.
-Git is free software.
-Git tracks changes.
-Hello world.
-JavaScript.
